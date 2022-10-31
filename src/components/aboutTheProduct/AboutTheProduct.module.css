@@ -1,0 +1,205 @@
+.AboutTheProduct {
+    min-width: 100vw;
+
+}
+.container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    height: 100%;
+    max-width: 470px;
+    margin: 0 auto;
+}
+.button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 114px;
+    gap: 10px;
+    position: relative;
+    width: 350px;
+    height: 67px;
+
+
+    background: #CCFF00;
+    border-radius: 10px;
+    margin-bottom: 80px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+    
+    
+    color: #181818;
+    
+
+}
+.title {
+    position: relative;
+    width: 159px;
+    height: 47px;
+    margin: 10px;
+
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 40px;
+    line-height: 47px;
+    
+    letter-spacing: -0.02em;
+    
+    color: #000000;
+
+}
+.items {
+    margin-bottom:80px ;
+}
+.item {
+}
+.itemTitle {
+    position: relative;
+    width: 267px;
+    height: 23px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+    letter-spacing: -0.02em;
+    
+    color: #303030;
+}
+.itemText {
+    position: relative;
+    width: 267px;
+    height: 38px;
+    margin-bottom: 20px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: -0.02em;
+    
+    color: #303030;
+}
+.background {
+    position: relative;
+    width: 350px;
+    height: 240px;
+    margin-bottom: 10px;
+
+    background: #C4C4C4;
+    border-radius: 10px;
+}
+
+.photoBlockTitle {
+    position: relative;
+    width: 350px;
+    height: 235px;
+    margin-bottom: 40px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 40px;
+    line-height: 47px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #000000;
+}
+.photos {
+
+}
+.photo {
+    display: block;
+    position: relative;
+    width: 350px;
+    height: 200px;
+
+    border-radius: 10px;
+    margin-bottom: 5px;
+}
+.equipment {
+
+}
+.equipmentTitle {
+    position: relative;
+    width: 139px;
+    height: 23px;
+    margin-bottom: 10px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+    
+    color: #000000;
+}
+.equipmentText {
+    position: relative;
+    width: 294px;
+    height: 76px;
+    margin-bottom: 20px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 19px;
+    
+    color: #000000;
+    
+}
+.yelowBlock {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    width: 350px;
+    height: 300px;
+    margin-bottom: 80px;
+
+    background: #D8FF3D;
+    border-radius: 10px;
+}
+.Specification {
+
+}
+.SpecificationTitle {
+    position: relative;
+    width: 139px;
+    height: 23px;
+    margin-bottom: 10px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+    
+    color: #000000;
+}
+.SpecificationText {
+    position: relative;
+    width: 294px;
+    height: 76px;
+    margin-bottom: 20px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 19px;
+    
+    color: #000000;
+    
+}

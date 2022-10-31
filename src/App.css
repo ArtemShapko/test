@@ -1,0 +1,10 @@
+.App {
+  width: 100vw;
+  max-height: 100vh;
+}
+
+.container {
+  max-width: 470px;
+  max-height: 100%;
+  
+}

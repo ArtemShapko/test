@@ -1,0 +1,167 @@
+.footer {
+    padding: 20px;
+    min-width: 100vw;
+
+    background: #181818;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    height: 100%;
+    max-width: 470px;
+    margin: 0 auto;
+    padding-top: 64px;
+}
+.title {
+    position: relative;
+    width: 297px;
+    height: 60px;
+    margin-bottom: 40px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 30px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+.info {
+    max-width: 370px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.contacts {
+
+    margin-bottom: 20px;
+}
+.phone {
+    width: 100px;
+    height: 16px;
+    margin-bottom: 5px;
+    margin-left: auto;
+    margin-right: auto;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: -0.02em;
+    color: #C0C0C0;
+}
+.gmail {
+    width: 182px;
+    height: 16px;
+    margin: 0 auto;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: -0.02em;
+    color: #C0C0C0;
+}
+.location {
+    margin-bottom: 20px;
+}
+.place {
+    width: 210px;
+    height: 14px;
+    margin-bottom: 5px;
+    margin-left: auto;
+    margin-right: auto;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    text-align: right;
+    letter-spacing: -0.02em;
+    color: #C0C0C0;
+
+}
+.time {
+    width: 164px;
+    height: 14px;
+    margin-bottom: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: -0.02em;
+    color: #C0C0C0;
+}
+.address {
+    width: 266px;
+    height: 14px;
+    margin-bottom: 5px;
+    margin-left: auto;
+    margin-right: auto;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: -0.02em;
+    color: #C0C0C0;
+
+}
+.legalPoints {
+    margin-bottom: 20px;
+    display: flex;
+}
+.politics {
+    margin-bottom: 5px;
+    width: 151px;
+    height: 12px;
+    margin-left: auto;
+    margin-right: auto;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 12px;
+    text-decoration-line: underline;
+    color: #FFFFFF;
+
+}
+.agreement {
+    margin-bottom: 5px;
+    width: 148px;
+    height: 12px;
+    margin-left: auto;
+    margin-right: auto;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 12px;
+    text-decoration-line: underline;
+    color: #FFFFFF;
+}
+.license {
+    width: 277px;
+    height: 14px;
+    margin-left: auto;
+    margin-right: auto;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 14px;
+    color: #FFFFFF;
+}

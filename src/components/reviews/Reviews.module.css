@@ -1,0 +1,37 @@
+.reviews {
+    min-width: 100vw;
+    max-height: 100vh;
+
+}
+.container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    height: 100%;
+    max-width: 470px;
+    margin: 0 auto;
+}
+.title {
+    position: relative;
+    width: 141px;
+    height: 47px;
+    margin-bottom: 10px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 40px;
+    line-height: 47px;
+    letter-spacing: -0.04em;
+    color: #000000;
+}
+.slider {
+    box-sizing: border-box;
+    position: relative;
+    width: 350px;
+    height: 382px;
+    margin-bottom: 80px;
+
+    border: 1px solid #CDCDCD;
+    border-radius: 20px;
+}
